@@ -1,1 +1,1 @@
-# starships
+# starships node js + express + sequelize + sqlite + swapi-node
