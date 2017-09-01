@@ -1,0 +1,29 @@
+{
+  "name": "starship-node",
+  "version": "1.0.0",
+  "description": "starship node",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-generator": "^4.15.0",
+    "request": "^2.81.0",
+    "sequelize": "^4.8.0",
+    "sequelize-cli": "^2.8.0",
+    "sqlite3": "^3.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcarvalhoxavier/starships.git"
+  },
+  "author": "rodrigo xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcarvalhoxavier/starships/issues"
+  },
+  "homepage": "https://github.com/rcarvalhoxavier/starships#readme"
+}
